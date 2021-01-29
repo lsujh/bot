@@ -4,9 +4,10 @@ import requests
 import telebot
 from datetime import datetime
 
-from config import token, url
+from config import token
 
 bot = telebot.TeleBot(token)
+url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid=f14f45730dee91a89c48c0b485ff20b1&lang=uk'
 
 @bot.message_handler(content_types=["text"])
 def get_text_messages(message):
