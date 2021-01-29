@@ -1,3 +1,4 @@
 # bot
 телеграм бот показує погоду
-@lsujh_bot
+t_me/lsujh_bot
+
