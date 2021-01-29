@@ -1,6 +1,6 @@
 # bot
 телеграм бот показує погоду
 
-<a href="tg://resolve?domain=@lsujh_bot">Telegram</a>
+<a href="tg://t.me/@lsujh_bot">Telegram</a>
 
 
